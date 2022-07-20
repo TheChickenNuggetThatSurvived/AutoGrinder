@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anonymous",
+  "name": "AutoGrinder",
+  "description": "A silent bot program and AutoGrinder for Hypixel Pit.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["anonymous", "anonymous"],
+  "credits": "Thanks GoldenWind for such a good grinder <3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
